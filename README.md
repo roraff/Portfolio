@@ -1,2 +1,3 @@
 # Portfolio
-A special surprise project
+
+A surprise project that will showcase skills, abilities, and accomplishments.
